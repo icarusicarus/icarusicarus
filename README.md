@@ -1,4 +1,6 @@
 ### Hi there 🌱
+Interested in Robotics, Embedded, Compiler and Digital Forensic
+
 <img src="https://github.com/icarusicarus/icarusicarus/blob/main/Images/gattaca.png">
 <!--
 **icarusicarus/icarusicarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
